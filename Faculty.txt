@@ -1,0 +1,29 @@
+id:100284
+admin
+willsmith
+smithy51
+Will
+Smith
+H
+email:willsmith@gmail.com
+degree:Computer Science
+phone Number:626-555-5551
+officeNumber:R204
+office Hours:Monday 5pm-6pm
+Date Of Hire:9/1/2002
+Courses teaching:CS3B CS2
+*endfaculty*
+id:100285
+notadmin
+jessem
+jesse51
+Jesse
+McCartney
+M
+email:jessem@gmail.com
+degree:Computer Science
+phone Number:626-555-5552
+Office Number:R203
+office Hours:Tuesday 2pm-3pm
+Date Of Hire: 9/1/2002
+Courses teaching:CS3A CS8

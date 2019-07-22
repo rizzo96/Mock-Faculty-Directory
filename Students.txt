@@ -1,0 +1,12 @@
+id:100284
+bobwalker
+bobby51
+Bob
+Walker
+L
+email:willsmith@gmail.com
+major:Computer Science
+CoursesTaken: cs2
+ListOfSchoolsApplying: cal poly pomona
+PotentialDateOfTransfer: september 2019
+
